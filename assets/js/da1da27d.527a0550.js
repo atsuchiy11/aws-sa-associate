@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[76],{7277:function(a){a.exports=JSON.parse('{"allTagsPath":"/aws-sa-associate/blog/tags","slug":"/aws-sa-associate/blog/tags/hola","name":"hola","count":1,"permalink":"/aws-sa-associate/blog/tags/hola"}')}}]);

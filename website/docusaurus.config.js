@@ -9,7 +9,7 @@ const config = {
   title: 'AWS Solution Architect - Associate',
   tagline: 'Dinosaurs are cool',
   url: 'https://atsuchiy11.github.io',
-  baseUrl: '/',
+  baseUrl: '/aws-sa-associate/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

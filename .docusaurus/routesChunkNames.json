@@ -1,0 +1,172 @@
+{
+  "/aws-sa-associate/__docusaurus/debug-f9a": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/aws-sa-associate/__docusaurus/debug/config-52e": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/aws-sa-associate/__docusaurus/debug/content-ed1": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---aws-sa-associate-docusaurus-debug-content-246-78b"
+  },
+  "/aws-sa-associate/__docusaurus/debug/globalData-34d": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/aws-sa-associate/__docusaurus/debug/metadata-823": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/aws-sa-associate/__docusaurus/debug/registry-c58": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/aws-sa-associate/__docusaurus/debug/routes-d00": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/aws-sa-associate/blog-07c": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "items": [
+      {
+        "content": "content---aws-sa-associate-blog-766-b78"
+      },
+      {
+        "content": "content---aws-sa-associate-blogf-4-f-c26"
+      },
+      {
+        "content": "content---aws-sa-associate-blog-871-30c"
+      },
+      {
+        "content": "content---aws-sa-associate-blog-925-fa5"
+      }
+    ],
+    "metadata": "metadata---aws-sa-associate-blog-38-b-3c0"
+  },
+  "/aws-sa-associate/blog/archive-539": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---aws-sa-associate-blog-archive-118-793"
+  },
+  "/aws-sa-associate/blog/first-blog-post-fff": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "content": "content---aws-sa-associate-blog-first-blog-poste-27-2f8"
+  },
+  "/aws-sa-associate/blog/long-blog-post-b18": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "content": "content---aws-sa-associate-blog-long-blog-post-736-127"
+  },
+  "/aws-sa-associate/blog/mdx-blog-post-1df": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "content": "content---aws-sa-associate-blog-mdx-blog-post-593-5ed"
+  },
+  "/aws-sa-associate/blog/tags-16a": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "tags": "tags---aws-sa-associate-blog-tagsc-5-b-74b"
+  },
+  "/aws-sa-associate/blog/tags/docusaurus-5c7": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "items": [
+      {
+        "content": "content---aws-sa-associate-blog-766-b78"
+      },
+      {
+        "content": "content---aws-sa-associate-blogf-4-f-c26"
+      },
+      {
+        "content": "content---aws-sa-associate-blog-871-30c"
+      },
+      {
+        "content": "content---aws-sa-associate-blog-925-fa5"
+      }
+    ],
+    "metadata": "metadata---aws-sa-associate-blog-tags-docusaurus-712-d21"
+  },
+  "/aws-sa-associate/blog/tags/facebook-ae3": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "items": [
+      {
+        "content": "content---aws-sa-associate-blog-766-b78"
+      }
+    ],
+    "metadata": "metadata---aws-sa-associate-blog-tags-facebook-74-b-920"
+  },
+  "/aws-sa-associate/blog/tags/hello-8e6": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "items": [
+      {
+        "content": "content---aws-sa-associate-blog-766-b78"
+      },
+      {
+        "content": "content---aws-sa-associate-blog-871-30c"
+      }
+    ],
+    "metadata": "metadata---aws-sa-associate-blog-tags-hello-3-a-4-07b"
+  },
+  "/aws-sa-associate/blog/tags/hola-142": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "items": [
+      {
+        "content": "content---aws-sa-associate-blog-925-fa5"
+      }
+    ],
+    "metadata": "metadata---aws-sa-associate-blog-tags-holada-1-f35"
+  },
+  "/aws-sa-associate/blog/welcome-295": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---aws-sa-associate-blog-814-948",
+    "content": "content---aws-sa-associate-blog-welcomed-9-f-cee"
+  },
+  "/aws-sa-associate/markdown-page-fa1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---aws-sa-associate-markdown-page-393-761"
+  },
+  "/aws-sa-associate/docs-2f3": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---aws-sa-associate-docs-935-f29"
+  },
+  "/aws-sa-associate/docs/intro-04f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-intro-0-e-3-6fd"
+  },
+  "/aws-sa-associate/docs/tutorial-basics/congratulations-78d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-basics-congratulations-822-8e3"
+  },
+  "/aws-sa-associate/docs/tutorial-basics/create-a-blog-post-9dc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-basics-create-a-blog-post-533-3f8"
+  },
+  "/aws-sa-associate/docs/tutorial-basics/create-a-document-15d": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-basics-create-a-document-1-e-4-b98"
+  },
+  "/aws-sa-associate/docs/tutorial-basics/create-a-page-cb8": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-basics-create-a-page-5-c-8-7e7"
+  },
+  "/aws-sa-associate/docs/tutorial-basics/deploy-your-site-35b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-basics-deploy-your-sitef-55-78b"
+  },
+  "/aws-sa-associate/docs/tutorial-basics/markdown-features-7d6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-basics-markdown-features-18-c-82b"
+  },
+  "/aws-sa-associate/docs/tutorial-extras/manage-docs-versions-c36": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-extras-manage-docs-versionsdff-e27"
+  },
+  "/aws-sa-associate/docs/tutorial-extras/translate-your-site-e0c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---aws-sa-associate-docs-tutorial-extras-translate-your-sitee-44-6b3"
+  },
+  "/aws-sa-associate/-47e": {
+    "component": "component---site-src-pages-index-tsx-1-df-d3e",
+    "config": "config---aws-sa-associate-5-e-9-97c"
+  }
+}
